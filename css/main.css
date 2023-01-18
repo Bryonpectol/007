@@ -1,0 +1,39 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-image: url("/images/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav {
+    background-color: black;
+    color: white;
+}
+
+nav ul {
+    display: flex;
+}
+
+nav ul a {
+    padding: 4vh;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+
+nav ul a li {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.navlogolink {
+    font-size: 2em;
+    display: flex;
+    justify-content: center;
+}
