@@ -23,6 +23,8 @@ body {
     margin: 0px;
 }
 
+
+
 .navlimobile {
     visibility: hidden;
     padding: 0px;
@@ -59,10 +61,16 @@ nav ul a li {
     color: white;
 }
 
-.navlogolink {
+.navlogolinkdesktop {
     font-size: 2em;
     display: flex;
     justify-content: center;
+}
+
+.navlogolinkmobile {
+    visibility: hidden;
+    padding: 0px;
+    margin: 0px;
 }
 }
 
@@ -126,10 +134,16 @@ nav ul a li {
     color: white;
 }
 
-.navlogolink {
+.navlogolinkmobile {
     font-size: 2em;
     display: flex;
     justify-content: center;
+}
+
+.navlogolinkdesktop {
+    visibility: hidden;
+    padding: 0px;
+    margin: 0px;
 }
     
 }
