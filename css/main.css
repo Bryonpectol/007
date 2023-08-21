@@ -1,3 +1,5 @@
+@media and screen only (min-width: 601px)
+{
 * {
     padding: 0px;
     margin: 0px;
@@ -36,4 +38,5 @@ nav ul a li {
     font-size: 2em;
     display: flex;
     justify-content: center;
+}
 }
