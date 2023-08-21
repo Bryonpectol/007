@@ -1,4 +1,4 @@
-@media and screen only (min-width: 601px)
+@media and screen only (min-width: 701px)
 {
 * {
     padding: 0px;
@@ -41,7 +41,7 @@ nav ul a li {
 }
 }
 
-@media and screen only (max-width: 600px) {
+@media and screen only (max-width: 700px) {
 
 * {
     padding: 0px;
