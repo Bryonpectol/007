@@ -17,6 +17,12 @@ nav {
     color: white;
 }
 
+.navmobile {
+    visibility: hidden;
+    padding: 0px;
+    margin: 0px;
+}
+
 nav ul {
     display: flex;
 }
@@ -54,9 +60,10 @@ body {
     
 }
 
-nav {
-    background-color: black;
-    color: white;
+.navdesktop {
+    visibility: hidden;
+    padding: 0px;
+    margin: 0px;
 }
 
 nav ul {
