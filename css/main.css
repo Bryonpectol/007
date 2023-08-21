@@ -89,6 +89,18 @@ nav ul a {
     margin: 0px;
 }
 
+.nava {
+    visibility: hidden;
+    padding: 0px;
+    margin: 0px;
+}
+
+.navli {
+    visibility: hidden;
+    padding: 0px;
+    margin: 0px;
+}
+
 nav ul a li {
     list-style-type: none;
     display: flex;
