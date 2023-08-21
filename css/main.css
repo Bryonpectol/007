@@ -77,7 +77,7 @@ nav ul {
 }
 
 nav ul a {
-    padding: 4vh;
+  /*  padding: 4vh; */
     display: flex;
     justify-content: center;
     text-decoration: none;
