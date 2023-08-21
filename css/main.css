@@ -23,6 +23,24 @@ body {
     margin: 0px;
 }
 
+.navlimobile {
+    visibility: hidden;
+    padding: 0px;
+    margin: 0px;
+}
+
+.navulmobile {
+    visibility: hidden;
+    padding: 0px;
+    margin: 0px;
+}
+
+.navamobile {
+    visibility: hidden;
+    padding: 0px;
+    margin: 0px;
+}
+
 nav ul {
     display: flex;
 }
