@@ -72,6 +72,12 @@ nav ul a li {
     padding: 0px;
     margin: 0px;
 }
+
+.navlogomobile {
+    visibility: hidden;
+    padding: 0px;
+    margin: 0px;
+}
 }
 
 /* Mobile */
@@ -141,6 +147,12 @@ nav ul a li {
 }
 
 .navlogolinkdesktop {
+    visibility: hidden;
+    padding: 0px;
+    margin: 0px;
+}
+
+.navlogodesktop {
     visibility: hidden;
     padding: 0px;
     margin: 0px;
