@@ -12,7 +12,7 @@ body {
     background-size: cover;
 }
 
-nav {
+.navdesktop {
     background-color: black;
     color: white;
 }
@@ -66,8 +66,14 @@ body {
     margin: 0px;
 }
 
+.navmobile {
+    background-color: black;
+    color: white;
+}
+
 nav ul {
     display: flex;
+    flex-wrap: wrap;
 }
 
 nav ul a {
