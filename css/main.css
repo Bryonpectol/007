@@ -1,5 +1,5 @@
 /* Desktop */
-@media only screen and (min-width: 801px)
+@media only screen and (min-width: 701px)
 {
 * {
     padding: 0px;
@@ -81,7 +81,7 @@ nav ul a li {
 }
 
 /* Mobile */
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 700px) {
 
 * {
     padding: 0px;
@@ -115,23 +115,23 @@ nav ul a {
     text-decoration: none;
 }
 
-.navul {
+/*.navul {
     visibility: hidden;
     padding: 0px;
     margin: 0px;
-}
+}*/
 
-.nava {
+/*.nava {
     visibility: hidden;
     padding: 0px;
     margin: 0px;
-}
+}*/
 
-.navli {
+/*.navli {
     visibility: hidden;
     padding: 0px;
     margin: 0px;
-}
+}*/
 
 nav ul a li {
     list-style-type: none;
