@@ -60,18 +60,18 @@ body {
     padding-bottom: 0px;
 }
 
-nav ul {
+.navuldesktop {
     display: flex;
 }
 
-nav ul a {
+.navadesktop {
     padding: 4vh;
     display: flex;
     justify-content: center;
     text-decoration: none;
 }
 
-nav ul a li {
+.navlidesktop {
     list-style-type: none;
     display: flex;
     justify-content: center;
