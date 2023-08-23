@@ -15,6 +15,7 @@ body {
 .navdesktop {
     background-color: black;
     color: white;
+    position: fixed;
 }
 
 .navmobile {
