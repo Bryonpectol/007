@@ -19,7 +19,7 @@ function Generate() {
   count++;
 
   link.setAttribute("href", `/html/${links[count - 1]}.html`);
-  img.setAttribute("src", `/images/characters/$[count]}.png`);
+  img.setAttribute("src", `/images/characters/${[count]}.png`);
   name.textContent = "" + names[count - 1];
   
   container.appendChild(link);
