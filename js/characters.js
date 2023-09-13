@@ -21,6 +21,10 @@ function Generate() {
   link.setAttribute("href", `/html/${links[count - 1]}.html`);
   img.setAttribute("src", `/images/characters/${[count]}.png`);
   name.textContent = "" + names[count - 1];
+
+    img.className = "artimgOne";
+    pAlt.className = "paltClass";
+    link.className = "celebLinkClass";
   
   container.appendChild(link);
   link.appendChild(img);
