@@ -27,11 +27,11 @@ function Hamburger() {
 
     theDiv.className = "theDiv";
 
-    theDiv.textContent = "Electro Beauties"
+    theDiv.textContent = "00 Lifestyle"
     Home.textContent = "Home";
-    Videos.textContent = "Videos";
-    Gallery.textContent = "Gallery";
-    Beauty.textContent = "Beauty Rankings";
+    Videos.textContent = "Characters";
+    Gallery.textContent = "Movies";
+    Beauty.textContent = "Books";
 
     // theDiv.className="mobilelinks";
     Videos.className="mobilelinks";
@@ -39,9 +39,9 @@ function Hamburger() {
     Beauty.className="mobilelinks";
 
     theDiv.setAttribute("href", "/index.html");
-    Videos.setAttribute("href", "/html/videos.html");
-    Gallery.setAttribute("href", "/html/gallery.html");
-    Beauty.setAttribute("href", "/html/beauty-rankings.html");
+    Videos.setAttribute("href", "/html/characters.html");
+    Gallery.setAttribute("href", "/html/movies.html");
+    Beauty.setAttribute("href", "/html/books.html");
 
 
     nav.appendChild(theDiv);
@@ -70,11 +70,11 @@ function exit() {
 
     theDiv.className = "theDiv";
 
-    theDiv.textContent = "Celixa Girls"
+    theDiv.textContent = "00 Lifestyle"
     Home.textContent = "Home";
-    Videos.textContent = "Videos";
-    Gallery.textContent = "Gallery";
-    Beauty.textContent = "Beauty Rankings";
+    Videos.textContent = "Characters";
+    Gallery.textContent = "Movies";
+    Beauty.textContent = "Books";
 
     nav.removeChild(theDiv);
     nav.removeChild(Videos);
