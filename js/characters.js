@@ -23,7 +23,7 @@ function Generate() {
   name.textContent = "" + names[count - 1];
 
     img.className = "artimgOne";
-    pAlt.className = "paltClass";
+    name.className = "paltClass";
     link.className = "celebLinkClass";
   
   container.appendChild(link);
