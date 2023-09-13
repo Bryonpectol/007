@@ -15,6 +15,7 @@ function Generate() {
   let img = document.createElement("img");
   let name = document.createElement("p");
   let link = document.createElement("a");
+  let BR = document.createElement("br");
   
   count++;
 
@@ -29,6 +30,7 @@ function Generate() {
   container.appendChild(link);
   link.appendChild(img);
   link.appendChild(name);
+  link.appendChild(BR);
 };
 
 imgs.forEach(Generate);
