@@ -28,8 +28,8 @@ function Generate() {
     link.className = "celebLinkClass";
   
   container.appendChild(link);
-  link.appendChild(img);
   link.appendChild(name);
+  link.appendChild(img);
   link.appendChild(BR);
 };
 
