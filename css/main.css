@@ -486,6 +486,11 @@
         overflow-x: hidden;
     }
 
+    .celebLinkClass {
+        border: 2px solid black;
+        border-radius: 25px;
+    }
+
     #wholesaleimg {
         width: 250px;
         overflow-x: hidden;
