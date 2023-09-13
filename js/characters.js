@@ -1,8 +1,8 @@
-const names = ["James Bond","Vesper Lynd","Q","Ernst Stavro Blofeld","M","Miss Moneypenny","Le Chieffre","Felix Leiter","Paloma","Camille Montes"];
+const names = ["James Bond","Vesper Lynd","Q","Ernst Stavro Blofeld","M","Miss Moneypenny","Le Chieffre","Felix Leiter","Paloma","Camille Montes","Madeleine Swann"];
 
-const imgs = ["James Bond","Vesper Lynd","Q","Ernst Stavro Blofeld","M","Miss Moneypenny","Le Chieffre","Felix Leiter","Paloma","Camille Montes"];
+const imgs = ["James Bond","Vesper Lynd","Q","Ernst Stavro Blofeld","M","Miss Moneypenny","Le Chieffre","Felix Leiter","Paloma","Camille Montes","Madeleine Swann"];
 
-const links = ["james-bond","vesper-lynd","q","ernst-stavro-blofeld","m","miss-moneypenny","le-chieffre","felix-leiter","paloma","camille-montes"];
+const links = ["james-bond","vesper-lynd","q","ernst-stavro-blofeld","m","miss-moneypenny","le-chieffre","felix-leiter","paloma","camille-montes","madeleine-swann"];
 
 let Container = document.getElementById("container");
 
