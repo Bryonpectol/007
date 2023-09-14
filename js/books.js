@@ -20,8 +20,8 @@ function Generate() {
   count++;
 
   link.setAttribute("href", `/html/${links[count]}.html`);
-  img.setAttribute("src", `/images/books/${[count]}.jpg`);
-  name.textContent = "" + names[count];
+  img.setAttribute("src", `/images/books/${[count - 1]}.jpg`);
+  name.textContent = "" + names[count ];
 
     img.className = "artimgOne";
     name.className = "paltClass";
