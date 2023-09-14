@@ -1,8 +1,8 @@
-const names = ["James Bond","Vesper Lynd","Q","Ernst Stavro Blofeld","M","Miss Moneypenny","Le Chieffre","Felix Leiter","Paloma","Camille Montes","Madeleine Swann","Solange Dimitrios","Sévérine","Raoul Silva","Gareth Mallory","Mr. White","Lucia Sciarra","Lyutsifer Safin","Nomi","Strawberry Fields","Dominic Greene","René Mathis"];
+const names = ["James Bond","Vesper Lynd","Q","Ernst Stavro Blofeld","M","Miss Moneypenny","Le Chieffre","Felix Leiter","Paloma","Camille Montes","Madeleine Swann","Solange Dimitrios","Sévérine","Raoul Silva","Gareth Mallory","Mr. White","Lucia Sciarra","Lyutsifer Safin","Nomi","Strawberry Fields","Dominic Greene","René Mathis","Mathilde"];
 
-const imgs = ["James Bond","Vesper Lynd","Q","Ernst Stavro Blofeld","M","Miss Moneypenny","Le Chieffre","Felix Leiter","Paloma","Camille Montes","Madeleine Swann","Solange Dimitrios","Sévérine","Raoul Silva","Gareth Mallory","Mr. White","Lucia Sciarra","Lyutsifer Safin","Nomi","Strawberry Fields","Dominic Greene","René Mathis"];
+const imgs = ["James Bond","Vesper Lynd","Q","Ernst Stavro Blofeld","M","Miss Moneypenny","Le Chieffre","Felix Leiter","Paloma","Camille Montes","Madeleine Swann","Solange Dimitrios","Sévérine","Raoul Silva","Gareth Mallory","Mr. White","Lucia Sciarra","Lyutsifer Safin","Nomi","Strawberry Fields","Dominic Greene","René Mathis","Mathilde"];
 
-const links = ["james-bond","vesper-lynd","q","ernst-stavro-blofeld","m","miss-moneypenny","le-chieffre","felix-leiter","paloma","camille-montes","madeleine-swann","solange-dimitrios","severine","raoul-silva","gareth-mallory","mr-white","lucia-sciarra","lyutsifer-safin","nomi","strawberry-fields","dominic-greene","rene-mathis"];
+const links = ["james-bond","vesper-lynd","q","ernst-stavro-blofeld","m","miss-moneypenny","le-chieffre","felix-leiter","paloma","camille-montes","madeleine-swann","solange-dimitrios","severine","raoul-silva","gareth-mallory","mr-white","lucia-sciarra","lyutsifer-safin","nomi","strawberry-fields","dominic-greene","rene-mathis","mathilde"];
 
 let Container = document.getElementById("container");
 
