@@ -1,4 +1,4 @@
-const names = ["No Time to Die","Spectre","Skyfall","Quantum of Solace","Casino Royale"];
+const names = ["Casino Royale","Live and Let Die","Moonraker","Diamonds are Forever","From Russia with Love","Dr. No","Goldfinger","For Your Eyes Only","Thunderball","The Spy Who Loved Me","On Her Majesty's Secret Service","You Only Live Twice","The Man with the Golden Gun","Octopussy and the Living Daylights"];
 
 const imgs = ["Casino Royale","Live and Let Die","Moonraker","Diamonds are Forever","From Russia with Love","Dr. No","Goldfinger","For Your Eyes Only","Thunderball","The Spy Who Loved Me","On Her Majesty's Secret Service","You Only Live Twice","The Man with the Golden Gun","Octopussy and the Living Daylights"];
 
