@@ -21,7 +21,7 @@ function Generate() {
 
   link.setAttribute("href", `/html/${links[count - 1]}.html`);
   img.setAttribute("src", `/images/books/${[count]}.jpg`);
-  name.textContent = "" + names[count - 2];
+  name.textContent = "" + names[count];
 
     img.className = "artimgOne";
     name.className = "paltClass";
