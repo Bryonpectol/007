@@ -430,6 +430,7 @@
     .timelinediv {
         display: flex;
         justify-content: center;
+        flex-direction: row;
     }
 
     .timelineitem {
