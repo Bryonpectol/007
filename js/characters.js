@@ -1,8 +1,8 @@
-const names = ["James Bond","Vesper Lynd","Q","Ernst Stavro Blofeld","M","Miss Moneypenny","Le Chieffre","Felix Leiter","Paloma","Camille Montes","Madeleine Swann"];
+const names = ["James Bond","Vesper Lynd","Q","Ernst Stavro Blofeld","M","Miss Moneypenny","Le Chieffre","Felix Leiter","Paloma","Camille Montes","Madeleine Swann","Solange Dimitrios","Sévérine","Raoul Silva","Gareth Mallory","Mr. White"];
 
-const imgs = ["James Bond","Vesper Lynd","Q","Ernst Stavro Blofeld","M","Miss Moneypenny","Le Chieffre","Felix Leiter","Paloma","Camille Montes","Madeleine Swann"];
+const imgs = ["James Bond","Vesper Lynd","Q","Ernst Stavro Blofeld","M","Miss Moneypenny","Le Chieffre","Felix Leiter","Paloma","Camille Montes","Madeleine Swann","Solange Dimitrios","Sévérine","Raoul Silva","Gareth Mallory","Mr. White"];
 
-const links = ["james-bond","vesper-lynd","q","ernst-stavro-blofeld","m","miss-moneypenny","le-chieffre","felix-leiter","paloma","camille-montes","madeleine-swann"];
+const links = ["james-bond","vesper-lynd","q","ernst-stavro-blofeld","m","miss-moneypenny","le-chieffre","felix-leiter","paloma","camille-montes","madeleine-swann","solange-dimitrios","severine","raoul-silva","gareth-mallory","mr-white"];
 
 let Container = document.getElementById("container");
 
