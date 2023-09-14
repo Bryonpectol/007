@@ -439,10 +439,13 @@
         border: 2px solid black;
         border-radius: 20px;
         margin: 3vh;
+        padding: 1vh;
     }
 
     .timelineh3 {
         text-align: center;
+        display: flex;
+        flex-wrap: no-wrap;
     }
 
     .timelinep {
