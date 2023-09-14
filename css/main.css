@@ -427,6 +427,30 @@
         overflow-x: hidden;
     }
 
+    .timelinediv {
+        display: flex;
+        justify-content: center;
+    }
+
+    .timelineitem {
+        text-align: center;
+        border: 2px solid black;
+        border-radius: 20px;
+        margin: 3vh;
+    }
+
+    .timelineh3 {
+        text-align: center;
+    }
+
+    .timelinep {
+        text-align: center;
+    }
+
+    .timelinehr {
+        text-align: center;
+    }
+
     /* .homelinkmobile {
         
     }
